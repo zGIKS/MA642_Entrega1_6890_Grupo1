@@ -7,11 +7,11 @@
 \contentsline {subsubsection}{\numberline {2.2.2}Objetivo Específico 2}{3}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Objetivo Específico 3}{3}{subsubsection.2.2.3}%
 \contentsline {subsubsection}{\numberline {2.2.4}Objetivo Específico 4}{3}{subsubsection.2.2.4}%
-\contentsline {section}{\numberline {3}Definiciones básicas}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Población, muestra y unidad elemental}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Definición y clasificación de variables utilizadas}{3}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Variables cualitativas}{3}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {3}Definiciones básicas}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Población, muestra y unidad elemental}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Definición y clasificación de variables utilizadas}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Variables cualitativas}{4}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Variables cuantitativas}{4}{subsubsection.3.2.2}%
-\contentsline {section}{\numberline {4}Resultados}{4}{section.4}%
+\contentsline {section}{\numberline {4}Resultados y análisis}{4}{section.4}%
 \contentsline {section}{\numberline {5}Conclusiones}{4}{section.5}%
 \contentsline {section}{\numberline {6}Bibliografía}{5}{section.6}%

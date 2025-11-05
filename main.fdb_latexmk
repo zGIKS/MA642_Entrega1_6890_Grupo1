@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762379445.98012 "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1762379446.7665 0
-  "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1762378937.76986 618 e77387ab8a8825158930183f53eb2632 ""
+["pdflatex"] 1762382401.1735 "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1762382401.72919 0
+  "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1762380073.57423 627 3489c469638fe3c17f16ff6f65bea988 ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1762212880 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1762212880 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1762212880 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -92,16 +92,16 @@
   "/opt/texlive/2025/texmf.cnf" 1762212880 585 81f10441804f05cc9107aafbbb0bcd23 ""
   "Definiciones.tex" 1762375948.01215 1079 592d03caca00d0a03e061b707b2b3f90 ""
   "Introduccion.tex" 1762379256.03442 1963 23aa0ac9bffee2c4e5404af80975e18e ""
-  "Objetivos.tex" 1762375908.65523 262 f3da0f4492e2ab50cc948143b7f6d87d ""
-  "Resultados.tex" 1762376005.13625 21 dddd9f66d6a3d5569ce453920af0eb64 ""
+  "Objetivos.tex" 1762382401.01624 1481 61beb1271c3bc6b92b51e087a0d27a51 ""
+  "Resultados.tex" 1762379907.17857 33 645c8e601a81c203356f03402b42463e ""
   "assets/UPC.png" 1762372948.36283 56002 b9d9f1b1c2d10ecb4b8e218e6f5e1924 ""
   "bibliografia.tex" 1762379444.81513 1265 ae5961dc2efad576bc511d0a60519dee ""
   "conclusiones.tex" 1762377001.62952 22 191e45bd541fc2e414e492f72225b680 ""
   "cover.tex" 1762375422.69091 960 19f341a7c49926cb106db0a85e21a33f ""
-  "main.aux" 1762379446.64966 2525 d9d2dd15d1d68113c6afe3522245e876 "pdflatex"
-  "main.out" 1762379446.65066 2710 722419489e222d026d2422b50b402176 "pdflatex"
-  "main.tex" 1762378937.76986 618 e77387ab8a8825158930183f53eb2632 ""
-  "main.toc" 1762379446.65066 1439 749f58f64915a0e5e855806b318a5b70 "pdflatex"
+  "main.aux" 1762382401.68785 2537 aebc428dbb23de34852782500bd3c67c "pdflatex"
+  "main.out" 1762382401.68938 2774 a5cf32b5ff6965ca09881eab2320ca05 "pdflatex"
+  "main.tex" 1762380073.57423 627 3489c469638fe3c17f16ff6f65bea988 ""
+  "main.toc" 1762382401.68938 1451 43c96f5edfdc916516abe6eab66ac863 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
