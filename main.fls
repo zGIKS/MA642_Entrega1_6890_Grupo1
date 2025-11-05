@@ -50,6 +50,8 @@ INPUT /opt/texlive/2025/texmf-dist/tex/latex/tools/array.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/tools/array.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /opt/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /opt/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
