@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762375418.07485 "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1762375418.46388 0
-  "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1762374240.02386 493 b9312e9a5bf42bd3133ac6b4dd984994 ""
+["pdflatex"] 1762376110.35794 "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1762376110.75006 0
+  "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1762376109.81538 492 bb82232eb1027ecba0612ba494612357 ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1762212880 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1762212880 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1762212880 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -59,11 +59,15 @@
   "/opt/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762212880 5528318 8b9c105fd5cdeb19f915a107efd73745 ""
   "/opt/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1762212880 3634332 bfbfef7d58431f9c86c863213685569d ""
   "/opt/texlive/2025/texmf.cnf" 1762212880 585 81f10441804f05cc9107aafbbb0bcd23 ""
-  "Introduccion.tex" 1762374138.55504 375 86ad9b1bc6a704abefbc11a9cf6c55aa ""
+  "Definiciones.tex" 1762375948.01215 1079 592d03caca00d0a03e061b707b2b3f90 ""
+  "Introduccion.tex" 1762375793.16723 41 f0b9ea0a4c2e5ce952e22d7368e50131 ""
+  "Objetivos.tex" 1762375908.65523 262 f3da0f4492e2ab50cc948143b7f6d87d ""
+  "Resultados.tex" 1762376005.13625 21 dddd9f66d6a3d5569ce453920af0eb64 ""
   "assets/UPC.png" 1762372948.36283 56002 b9d9f1b1c2d10ecb4b8e218e6f5e1924 ""
-  "cover.tex" 1762375417.93921 960 19f341a7c49926cb106db0a85e21a33f ""
-  "main.aux" 1762375418.43868 766 26804e1ef7dd5fe83d68feeac59b8214 "pdflatex"
-  "main.tex" 1762374240.02386 493 b9312e9a5bf42bd3133ac6b4dd984994 ""
+  "conclusiones.tex" 1762376097.1053 22 191e45bd541fc2e414e492f72225b680 ""
+  "cover.tex" 1762375422.69091 960 19f341a7c49926cb106db0a85e21a33f ""
+  "main.aux" 1762376110.72343 1972 cb0a1c234ca43faca619282c33d935aa "pdflatex"
+  "main.tex" 1762376109.81538 492 bb82232eb1027ecba0612ba494612357 ""
   (generated)
   "main.aux"
   "main.log"
