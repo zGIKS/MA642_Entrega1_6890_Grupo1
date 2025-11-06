@@ -101,6 +101,8 @@ INPUT /opt/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /opt/texlive/2025/texmf-dist/tex/latex/float/float.sty
+INPUT /opt/texlive/2025/texmf-dist/tex/latex/float/float.sty
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /opt/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./main.aux
