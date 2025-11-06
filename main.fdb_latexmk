@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762384381.20814 "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1762384381.76268 0
-  "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1762383302.96703 645 ad837ec9654a025a405e5b5342a70b5f ""
+["pdflatex"] 1762387179.00973 "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1762387180.09535 0
+  "/home/giks/Documents/Estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1762387178.71417 645 ad837ec9654a025a405e5b5342a70b5f ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1762212880 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1762212880 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1762212880 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -90,7 +90,7 @@
   "/opt/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762212880 5528318 8b9c105fd5cdeb19f915a107efd73745 ""
   "/opt/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1762212880 3634332 bfbfef7d58431f9c86c863213685569d ""
   "/opt/texlive/2025/texmf.cnf" 1762212880 585 81f10441804f05cc9107aafbbb0bcd23 ""
-  "Definiciones.tex" 1762384381.06067 1045 cfcb0210f84cc2e9634a235e180c2d8f ""
+  "Definiciones.tex" 1762387166.43625 886 0b01fb9a7109fdd9100adc2b7565a0bb ""
   "Introduccion.tex" 1762379256.03442 1963 23aa0ac9bffee2c4e5404af80975e18e ""
   "Objetivos.tex" 1762383104.27158 1636 e24800ae6583e3884311af52b0d9b7c4 ""
   "Resultados.tex" 1762379907.17857 33 645c8e601a81c203356f03402b42463e ""
@@ -98,10 +98,10 @@
   "bibliografia.tex" 1762379444.81513 1265 ae5961dc2efad576bc511d0a60519dee ""
   "conclusiones.tex" 1762377001.62952 22 191e45bd541fc2e414e492f72225b680 ""
   "cover.tex" 1762375422.69091 960 19f341a7c49926cb106db0a85e21a33f ""
-  "main.aux" 1762384381.72265 2537 e58d0c9b3e9a6cbd109a93a7e2cdfec5 "pdflatex"
-  "main.out" 1762384381.72365 2774 a5cf32b5ff6965ca09881eab2320ca05 "pdflatex"
-  "main.tex" 1762383302.96703 645 ad837ec9654a025a405e5b5342a70b5f ""
-  "main.toc" 1762384381.72365 1451 b92390a04eabf096b40421d6f0ab65ce "pdflatex"
+  "main.aux" 1762387180.02227 2814 b4f18976288405cb7bcce3caca679d82 "pdflatex"
+  "main.out" 1762387180.02427 3135 403c56b7491614d5b89e934b2c4a74ff "pdflatex"
+  "main.tex" 1762387178.71417 645 ad837ec9654a025a405e5b5342a70b5f ""
+  "main.toc" 1762387180.02427 1646 eee8bf974d1f013dfab519d12c99dc99 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
