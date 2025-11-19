@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763485893.63275 "/home/giks/Documents/estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1763485894.4948 0
+["pdflatex"] 1763527604.9743 "/home/giks/Documents/estadistica/MA642_Entrega1_6890_Grupo1/main.tex" "main.pdf" "main" 1763527605.43617 0
   "/home/giks/Documents/estadistica/MA642_Entrega1_6890_Grupo1/main.tex" 1763331627.17541 692 3784bc38dfd61b75875d45dd9f44e363 ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1762932293 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1762932293 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -94,16 +94,17 @@
   "Definiciones.tex" 1763331627.17541 657 8801be18dff3bff362171e6bd67b7a6d ""
   "Introduccion.tex" 1763331627.17541 1963 23aa0ac9bffee2c4e5404af80975e18e ""
   "Objetivos.tex" 1763331627.17541 1636 e24800ae6583e3884311af52b0d9b7c4 ""
-  "Resultados.tex" 1763331627.17541 33 645c8e601a81c203356f03402b42463e ""
+  "Resultados.tex" 1763527604.82801 1222 9af375998d4e683fe8c200a3b95e55f0 ""
   "Variables.tex" 1763331627.17541 2262 215cc2dc09d3884ba6eba90357f8f288 ""
   "assets/UPC.png" 1763331627.17541 56002 b9d9f1b1c2d10ecb4b8e218e6f5e1924 ""
+  "assets/graficos/objetivo1.png" 1763526929.39083 39070 f167894762d3671b1932dec37a826375 ""
   "bibliografia.tex" 1763331627.17541 1265 ae5961dc2efad576bc511d0a60519dee ""
   "conclusiones.tex" 1763331627.17541 22 191e45bd541fc2e414e492f72225b680 ""
-  "cover.tex" 1763485893.32815 901 0ebb1d25974657cb5e4a9be85ea8ed2a ""
-  "main.aux" 1763485894.44117 2814 3801f190baf458cf2af9ef1b1ac74fa9 "pdflatex"
-  "main.out" 1763485894.44117 3135 403c56b7491614d5b89e934b2c4a74ff "pdflatex"
+  "cover.tex" 1763485900.78291 901 0ebb1d25974657cb5e4a9be85ea8ed2a ""
+  "main.aux" 1763527605.40136 3773 77e83e6d1dc73c8f14596e3bab64e4b1 "pdflatex"
+  "main.out" 1763527605.40136 3246 7db6a20955308ff3fb1dc37816d8e680 "pdflatex"
   "main.tex" 1763331627.17541 692 3784bc38dfd61b75875d45dd9f44e363 ""
-  "main.toc" 1763485894.44117 1646 aa94cd309a21168f79a02cb0154fbbcd "pdflatex"
+  "main.toc" 1763527605.40136 1722 efab9a6348058eca0954b773d3d291f6 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
